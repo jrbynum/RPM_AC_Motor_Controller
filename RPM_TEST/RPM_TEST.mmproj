@@ -1,0 +1,15 @@
+<mm_project serial_port="COM2" board="Arduino Duemilanove w/ ATmega328" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="RPM_TEST_main.cpp" open="yes" />
+    <file name="rpm_test_main.h" open="yes" />
+    <file name="diagnostics.cpp" open="yes" />
+    <file name="startup.cpp" open="yes" />
+    <file name="calculations.cpp" open="yes" />
+    <file name="isrs.cpp" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="C:\Arduino\arduino-1.0.3\libraries\LiquidCrystal\LiquidCrystal.cpp" />
+  </externals>
+</mm_project>
