@@ -6,7 +6,7 @@ to compute temperature. It uses the PID library to compute feedback. RPM and Tem
 A zero crossing circuit and triac are used to control the set RPM which is based upon a 10K pot. The circuit 
 can also be controlled using a pwm input. This input could be used from Mach3.
 
-More to follow....
+11/02/2013 - Added an Eagle Schematic and Board layout for an Arduino shield that will be used for development.
 
 Rusty Bynum
 jrbynum@shaw.ca
